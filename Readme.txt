@@ -4,12 +4,11 @@ of faces showing various emotions. Convolution neural network train from these i
 can predict emotion in real time, computer vision is used.
 
 Technology used are Deep Learning and Computer Vision. Furthermore, all the code is written in Python programming language. 
-
+Data used: Kaggle emotion detection challenge.
 
 Folders Description -
 
 Cascade - It contains xml face frontal cascade file.
-Data - Contains train and test files in csv format. This csv format contains pixel values representing images.
 Extra - This folder contains some alternative approach to the model training.
 Model - Contains various models trained with different parameters or approaches.
 
